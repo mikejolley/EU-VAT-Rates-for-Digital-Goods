@@ -1,0 +1,146 @@
+{
+	"disclaimer"  : "These rates have been compiled from the EU documentation on VAT Rates applied in member states, however no guarantee of accuracy is provided so use at your own risk. This feed is in no way affiliated with or endorsed by the European Commission.",
+	"last_updated": "2014-12-19",
+	"rates"       : {
+		"BE": {
+			"country"      : "Belgium",
+			"standard_rate": 21.0000,
+			"ebook_rate"   : 21.0000
+		},
+		"BG": {
+			"country"      : "Bulgaria",
+			"standard_rate": 20.0000,
+			"ebook_rate"   : 20.0000
+		},
+		"CZ": {
+			"country"      : "Czech Republic",
+			"standard_rate": 21.0000,
+			"ebook_rate"   : 21.0000
+		},
+		"DK": {
+			"country"      : "Denmark",
+			"standard_rate": 25.0000,
+			"ebook_rate"   : 25.0000
+		},
+		"DE": {
+			"country"      : "Germany",
+			"standard_rate": 19.0000,
+			"ebook_rate"   : 19.0000
+		},
+		"EE": {
+			"country"      : "Estonia",
+			"standard_rate": 20.0000,
+			"ebook_rate"   : 20.0000
+		},
+		"EL": {
+			"country"      : "Greece",
+			"standard_rate": 23.0000,
+			"ebook_rate"   : 23.0000
+		},
+		"ES": {
+			"country"      : "Spain",
+			"standard_rate": 21.0000,
+			"ebook_rate"   : 21.0000
+		},
+		"FR": {
+			"country"      : "France",
+			"standard_rate": 20.0000,
+			"ebook_rate"   : 5.5000
+		},
+		"GB": {
+			"country"      : "United Kingdom",
+			"standard_rate": 20.0000,
+			"ebook_rate"   : 20.0000
+		}
+		"HR": {
+			"country"      : "Croatia",
+			"standard_rate": 25.0000,
+			"ebook_rate"   : 25.0000
+		},
+		"IE": {
+			"country"      : "Ireland",
+			"standard_rate": 23.0000,
+			"ebook_rate"   : 23.0000
+		},
+		"IT": {
+			"country"      : "Italy",
+			"standard_rate": 22.0000,
+			"ebook_rate"   : 22.0000
+		},
+		"CY": {
+			"country"      : "Cyprus",
+			"standard_rate": 19.0000,
+			"ebook_rate"   : 19.0000
+		},
+		"LV": {
+			"country"      : "Latvia",
+			"standard_rate": 21.0000,
+			"ebook_rate"   : 21.0000
+		},
+		"LT": {
+			"country"      : "Lithuania",
+			"standard_rate": 21.0000,
+			"ebook_rate"   : 21.0000
+		},
+		"LU": {
+			"country"      : "Luxembourg",
+			"standard_rate": 15.0000,
+			"ebook_rate"   : 3.0000
+		},
+		"HU": {
+			"country"      : "Hungary",
+			"standard_rate": 27.0000,
+			"ebook_rate"   : 27.0000
+		},
+		"MT": {
+			"country"      : "Malta",
+			"standard_rate": 18.0000,
+			"ebook_rate"   : 18.0000
+		},
+		"NL": {
+			"country"      : "Netherlands",
+			"standard_rate": 21.0000,
+			"ebook_rate"   : 21.0000
+		},
+		"AT": {
+			"country"      : "Austria",
+			"standard_rate": 20.0000,
+			"ebook_rate"   : 20.0000
+		},
+		"PL": {
+			"country"      : "Poland",
+			"standard_rate": 23.0000,
+			"ebook_rate"   : 23.0000
+		},
+		"PT": {
+			"country"      : "Portugal",
+			"standard_rate": 23.0000,
+			"ebook_rate"   : 23.0000
+		},
+		"RO": {
+			"country"      : "Romania",
+			"standard_rate": 24.0000,
+			"ebook_rate"   : 24.0000
+		},
+		"SI": {
+			"country"      : "Slovenia",
+			"standard_rate": 22.0000,
+			"ebook_rate"   : 22.0000
+		},
+		"SK": {
+			"country"      : "Slovakia",
+			"standard_rate": 20.0000,
+			"ebook_rate"   : 20.0000
+		},
+		"FI": {
+			"country"      : "Finland",
+			"standard_rate": 24.0000,
+			"ebook_rate"   : 24.0000
+		},
+		"SE": {
+			"country"      : "Sweden",
+			"standard_rate": 25.0000,
+			"ebook_rate"   : 25.0000
+		}
+	}
+}
