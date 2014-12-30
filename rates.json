@@ -2,6 +2,11 @@
 	"disclaimer"  : "These rates have been compiled from the EU documentation on VAT Rates applied in member states, however no guarantee of accuracy is provided so use at your own risk. This feed is in no way affiliated with or endorsed by the European Commission.",
 	"last_updated": "2014-12-19",
 	"rates"       : {
+		"AT": {
+			"country"      : "Austria",
+			"standard_rate": 20.0000,
+			"ebook_rate"   : 20.0000
+		},
 		"BE": {
 			"country"      : "Belgium",
 			"standard_rate": 21.0000,
@@ -11,6 +16,11 @@
 			"country"      : "Bulgaria",
 			"standard_rate": 20.0000,
 			"ebook_rate"   : 20.0000
+		},
+		"CY": {
+			"country"      : "Cyprus",
+			"standard_rate": 19.0000,
+			"ebook_rate"   : 19.0000
 		},
 		"CZ": {
 			"country"      : "Czech Republic",
@@ -42,6 +52,11 @@
 			"standard_rate": 21.0000,
 			"ebook_rate"   : 21.0000
 		},
+		"FI": {
+			"country"      : "Finland",
+			"standard_rate": 24.0000,
+			"ebook_rate"   : 24.0000
+		},
 		"FR": {
 			"country"      : "France",
 			"standard_rate": 20.0000,
@@ -57,6 +72,11 @@
 			"standard_rate": 25.0000,
 			"ebook_rate"   : 25.0000
 		},
+		"HU": {
+			"country"      : "Hungary",
+			"standard_rate": 27.0000,
+			"ebook_rate"   : 27.0000
+		},
 		"IE": {
 			"country"      : "Ireland",
 			"standard_rate": 23.0000,
@@ -66,11 +86,6 @@
 			"country"      : "Italy",
 			"standard_rate": 22.0000,
 			"ebook_rate"   : 22.0000
-		},
-		"CY": {
-			"country"      : "Cyprus",
-			"standard_rate": 19.0000,
-			"ebook_rate"   : 19.0000
 		},
 		"LV": {
 			"country"      : "Latvia",
@@ -87,11 +102,6 @@
 			"standard_rate": 15.0000,
 			"ebook_rate"   : 3.0000
 		},
-		"HU": {
-			"country"      : "Hungary",
-			"standard_rate": 27.0000,
-			"ebook_rate"   : 27.0000
-		},
 		"MT": {
 			"country"      : "Malta",
 			"standard_rate": 18.0000,
@@ -101,11 +111,6 @@
 			"country"      : "Netherlands",
 			"standard_rate": 21.0000,
 			"ebook_rate"   : 21.0000
-		},
-		"AT": {
-			"country"      : "Austria",
-			"standard_rate": 20.0000,
-			"ebook_rate"   : 20.0000
 		},
 		"PL": {
 			"country"      : "Poland",
@@ -127,20 +132,15 @@
 			"standard_rate": 22.0000,
 			"ebook_rate"   : 22.0000
 		},
-		"SK": {
-			"country"      : "Slovakia",
-			"standard_rate": 20.0000,
-			"ebook_rate"   : 20.0000
-		},
-		"FI": {
-			"country"      : "Finland",
-			"standard_rate": 24.0000,
-			"ebook_rate"   : 24.0000
-		},
 		"SE": {
 			"country"      : "Sweden",
 			"standard_rate": 25.0000,
 			"ebook_rate"   : 25.0000
+		},
+		"SK": {
+			"country"      : "Slovakia",
+			"standard_rate": 20.0000,
+			"ebook_rate"   : 20.0000
 		}
 	}
 }
