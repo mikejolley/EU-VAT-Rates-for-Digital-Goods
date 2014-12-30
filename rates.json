@@ -82,6 +82,11 @@
 			"standard_rate": 23.0000,
 			"ebook_rate"   : 23.0000
 		},
+		"IM": {
+			"country"      : "Isle of Man",
+			"standard_rate": 20.0000,
+			"ebook_rate"   : 20.0000
+		},
 		"IT": {
 			"country"      : "Italy",
 			"standard_rate": 22.0000,
@@ -101,6 +106,11 @@
 			"country"      : "Luxembourg",
 			"standard_rate": 15.0000,
 			"ebook_rate"   : 3.0000
+		},
+		"MC": {
+			"country"      : "Monaco",
+			"standard_rate": 20.0000,
+			"ebook_rate"   : 5.5000
 		},
 		"MT": {
 			"country"      : "Malta",
