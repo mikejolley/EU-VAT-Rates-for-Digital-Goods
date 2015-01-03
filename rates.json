@@ -1,6 +1,6 @@
 {
 	"disclaimer"  : "These rates have been compiled from the EU documentation on VAT Rates applied in member states, however no guarantee of accuracy is provided so use at your own risk. This feed is in no way affiliated with or endorsed by the European Commission.",
-	"last_updated": "2014-12-19",
+	"last_updated": "2015-01-03",
 	"rates"       : {
 		"AT": {
 			"country"      : "Austria",
@@ -90,7 +90,7 @@
 		"IT": {
 			"country"      : "Italy",
 			"standard_rate": 22.0000,
-			"ebook_rate"   : 22.0000
+			"ebook_rate"   : 4.0000
 		},
 		"LV": {
 			"country"      : "Latvia",
@@ -104,7 +104,7 @@
 		},
 		"LU": {
 			"country"      : "Luxembourg",
-			"standard_rate": 15.0000,
+			"standard_rate": 17.0000,
 			"ebook_rate"   : 3.0000
 		},
 		"MC": {
@@ -115,7 +115,7 @@
 		"MT": {
 			"country"      : "Malta",
 			"standard_rate": 18.0000,
-			"ebook_rate"   : 18.0000
+			"ebook_rate"   : 5.0000
 		},
 		"NL": {
 			"country"      : "Netherlands",
